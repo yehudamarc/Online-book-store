@@ -1,0 +1,964 @@
+{
+  "initialInventory": [
+    {
+      "bookTitle": "Harry Poter",
+      "amount": 100,
+      "price": 90
+    },
+    {
+      "bookTitle": "The Hunger Games",
+      "amount": 100,
+      "price": 102
+    }
+  ],
+  "initialResources": [
+    {
+      "vehicles": [
+        {
+          "license": 123483,
+          "speed": 5
+        }
+      ]
+    }
+  ],
+  "services": {
+    "time": {
+      "speed": 2,
+      "duration": 12
+    },
+    "selling": 1,
+    "inventoryService": 1,
+    "logistics": 1,
+    "resourcesService": 1,
+    "customers": [
+      {
+        "id": 123456789,
+        "name": "yuval",
+        "address": "ness-ziona 123",
+        "distance": 33,
+        "creditCard": {
+          "number": 3000000,
+          "amount": 3000000
+        },
+        "orderSchedule": [
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "Harry Poter",
+            "tick": 1
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 12
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 13
+          }
+        ]
+      },
+      {
+        "id": 234567891,
+        "name": "shlomi",
+        "address": "BeerSheva 3333",
+        "distance": 20,
+        "creditCard": {
+          "number": 453536,
+          "amount": 1000000
+        },
+        "orderSchedule": [
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 10
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          },
+          {
+            "bookTitle": "The Hunger Games",
+            "tick": 11
+          }
+        ]
+      }
+    ]
+  }
+}

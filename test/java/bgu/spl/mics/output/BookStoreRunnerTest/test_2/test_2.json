@@ -1,0 +1,60 @@
+{
+    "books": [
+        {
+            "amount": 9,
+            "bookTitle": "Harry Poter",
+            "price": 90
+        },
+        {
+            "amount": 88,
+            "bookTitle": "The Hunger Games",
+            "price": 102
+        }
+    ],
+    "customers": [
+        {
+            "address": "BeerSheva 3333",
+            "creditCard": {
+                "amount": 999898,
+                "number": 453536
+            },
+            "distance": 12,
+            "id": 234567891,
+            "name": "Shraga"
+        },
+        {
+            "address": "ness-ziona 123",
+            "creditCard": {
+                "amount": 999808,
+                "number": 67890
+            },
+            "distance": 33,
+            "id": 123456789,
+            "name": "yuval"
+        }
+    ],
+    "receipts": [
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 3,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 90,
+            "orderTick": 3,
+            "price": 102,
+            "seller": "SellingService2"
+        },
+        {
+            "customerId": 234567891,
+            "orderId": 192,
+            "orderTick": 12,
+            "price": 102,
+            "seller": "SellingService3"
+        }
+    ],
+    "total": 294
+}

@@ -1,0 +1,116 @@
+{
+    "books": [
+        {
+            "amount": 9,
+            "bookTitle": "Harry Poter",
+            "price": 90
+        },
+        {
+            "amount": 0,
+            "bookTitle": "The Hunger Games",
+            "price": 102
+        }
+    ],
+    "customers": [
+        {
+            "address": "BeerSheva 3333",
+            "creditCard": {
+                "amount": 453536,
+                "number": 453536
+            },
+            "distance": 12,
+            "id": 234567891,
+            "name": "shlomi"
+        },
+        {
+            "address": "ness-ziona 123",
+            "creditCard": {
+                "amount": 67890,
+                "number": 67890
+            },
+            "distance": 33,
+            "id": 123456789,
+            "name": "yuval"
+        }
+    ],
+    "receipts": [
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 1,
+            "price": 90,
+            "seller": "SellingService1"
+        }
+    ],
+    "total": 1110
+}

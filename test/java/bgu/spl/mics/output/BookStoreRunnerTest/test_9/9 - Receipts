@@ -1,0 +1,209 @@
+customer   : 234567891
+order tick : 3
+id         : 0
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 1019
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 2038
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 3057
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 4076
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 5095
+price      : 983
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 6078
+price      : 983
+seller     : SellingService3
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 7061
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 8080
+price      : 983
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 9063
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 9063
+price      : 983
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 10082
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 12084
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 234567891
+order tick : 3
+id         : 13103
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 14122
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 15141
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 16160
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 17179
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 18198
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 19217
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 20236
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 22238
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 23257
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 25259
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 26278
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 27297
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 29299
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 30318
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 31337
+price      : 1019
+seller     : SellingService2
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 32356
+price      : 1019
+seller     : SellingService1
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 33375
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 123456789
+order tick : 3
+id         : 34394
+price      : 1019
+seller     : SellingService3
+---------------------------
+customer   : 234567891
+order tick : 12
+id         : 20236
+price      : 983
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 12
+id         : 23257
+price      : 983
+seller     : SellingService2
+---------------------------
+customer   : 234567891
+order tick : 12
+id         : 28316
+price      : 983
+seller     : SellingService3

@@ -1,0 +1,79 @@
+{
+    "books": [
+        {
+            "amount": 99,
+            "bookTitle": "notebook",
+            "price": 1
+        },
+        {
+            "amount": 99,
+            "bookTitle": "no pun intended volume too",
+            "price": 10
+        },
+        {
+            "amount": 199,
+            "bookTitle": "The Holy Bible",
+            "price": 100
+        },
+        {
+            "amount": 99,
+            "bookTitle": "The Lord Of Rings",
+            "price": 1000
+        },
+        {
+            "amount": 99,
+            "bookTitle": "The Lord Of Rings 2",
+            "price": 10000
+        }
+    ],
+    "customers": [
+        {
+            "address": "NewYork 123",
+            "creditCard": {
+                "amount": 0,
+                "number": 67890
+            },
+            "distance": 1,
+            "id": 123456789,
+            "name": "Neyma"
+        }
+    ],
+    "receipts": [
+        {
+            "customerId": 123456789,
+            "orderId": 0,
+            "orderTick": 3,
+            "price": 10000,
+            "seller": "SellingService1"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 10000,
+            "orderTick": 4,
+            "price": 1000,
+            "seller": "SellingService3"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 11000,
+            "orderTick": 5,
+            "price": 100,
+            "seller": "SellingService5"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 11100,
+            "orderTick": 6,
+            "price": 10,
+            "seller": "SellingService7"
+        },
+        {
+            "customerId": 123456789,
+            "orderId": 11110,
+            "orderTick": 7,
+            "price": 1,
+            "seller": "SellingService9"
+        }
+    ],
+    "total": 11111
+}
